@@ -1,0 +1,52 @@
+html, 
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links {
+    width: 130px;
+    text-decoration: none;
+    z-index: 1;
+    top: 40px;
+    padding: 10px;
+    
+  }
+
+  a{
+      text-decoration: none;
+      color: grey;
+  }
+
+
+  #header-img{
+      padding-top: 8px;
+      width: 155px;
+  }
+
+  #main_doc{
+        padding: 5px;
+        position: relative;
+        left: 270px;
+        bottom: 540px;
+        width: 900px;
+        
+  }
+
+  hr{
+      width: 180px;
+      position: absolute;
+  }
+
+  .firstPar{
+      background-color: rgb(230, 221, 221);
+      padding: 5px 0px 15px 5px;
+  }
+
+#navbar{
+    
+}
+
+
+
+ 
